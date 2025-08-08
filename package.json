@@ -1,0 +1,18 @@
+{
+  "name": "image-repository-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.2",
+    "multer": "^2.0.2"
+  }
+}
